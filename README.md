@@ -9,7 +9,7 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 
 ## Author.
 
-> Felix Mwangi K
+> Felix Mwangi
 > ​
 
 ## Setup.
