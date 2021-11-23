@@ -75,7 +75,7 @@ $(document).ready(function () {
         var email = $("#mce-EMAIL").val();
         var message = $("#message").val();
         if ($("#mce-NAME").val() && $("#mce-EMAIL").val() && $("#message").val()) {
-            alert("Hi " + username + ", we have received your message. Thank you for reaching out to us.");
+            alert("Hello " + username + ",Thank you for reaching out to us.");
         } else {
             alert("Please fill all fields!");
         }
