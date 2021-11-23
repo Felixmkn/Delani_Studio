@@ -70,14 +70,4 @@ $(document).ready(function () {
         $('.p8').addClass('text');
     });
 
-    document.getElementById('submit').addEventListener('click', function () {
-        var username = $("#mce-NAME").val();
-        var email = $("#mce-EMAIL").val();
-        var message = $("#message").val();
-        if ($("#mce-NAME").val() && $("#mce-EMAIL").val() && $("#message").val()) {
-            alert("Hello " + username + ",Thank you for reaching out to us.");
-        } else {
-            alert("Please fill all fields!");
-        }
-    })
 });
