@@ -1,7 +1,7 @@
 # DELANI_STUDIO
 
-[Check it out](https://github.com/Felixmkn/Delani_Studio.git)
-​
+[Check it out](https://felixmkn.github.io/Delani_Studio/)
+
 
 ## Description.
 
@@ -9,8 +9,8 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 
 ## Author.
 
-> Felix Mwangi
-> ​
+> Felix Mwangi K
+
 
 ## Setup.
 
@@ -28,7 +28,7 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 2.  Hovering over each image will show a white box with the name of the image.
 3.  Upon entering your details and message in the contact-us form, the data will be sent to mailchimp and you   will receive a confirmation message thanking you for contacting them.
 4.  In case, submit form is entered without any values in the form, an alert message will pop-up telling you to put in valid information.
-    ​
+    
 
 ## Technologies used.
 
@@ -37,13 +37,12 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 - Css
 - Javascript
 - Jquery
-  ​
-  ​
+  
 
 ## License
 
 > MIT License &copy 2021 Felix Mwangi K.
-> ​
+
 
 ## Collaborate
 
